@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0075-sort-colors) |
 | [0713-subarray-product-less-than-k](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Two Pointers
 |  |
 | ------- |
