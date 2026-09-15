@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0016-3sum-closest) |
+| [0036-valid-sudoku](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0051-n-queens) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0202-happy-number) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
