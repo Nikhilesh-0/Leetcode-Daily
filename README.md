@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0148-sort-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0493-reverse-pairs) |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0493-reverse-pairs) |
