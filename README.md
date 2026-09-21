@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0202-happy-number) |
+| [0866-prime-palindrome](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0866-prime-palindrome) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Backtracking
 |  |
@@ -202,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0023-merge-k-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0866-prime-palindrome) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
