@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0327-count-of-range-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0912-sort-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0912-sort-an-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0162-find-peak-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0327-count-of-range-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0036-valid-sudoku) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Divide and Conquer
 |  |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
