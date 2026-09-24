@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0202-happy-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0459-repeated-substring-pattern) |
 ## String Matching
 |  |
