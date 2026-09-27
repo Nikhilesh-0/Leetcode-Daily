@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0327-count-of-range-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
 | [0493-reverse-pairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0493-reverse-pairs) |
 | [0648-replace-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0648-replace-words) |
 | [0713-subarray-product-less-than-k](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
 | [0912-sort-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/1268-search-suggestions-system) |
 ## Quicksort
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0053-maximum-subarray) |
+| [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0214-shortest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0459-repeated-substring-pattern) |
+| [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0648-replace-words) |
 | [0686-repeated-string-match](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0686-repeated-string-match) |
 | [1268-search-suggestions-system](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/1268-search-suggestions-system) |
@@ -309,6 +313,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0648-replace-words) |
 | [1268-search-suggestions-system](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/1268-search-suggestions-system) |
+## Depth-First Search
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
