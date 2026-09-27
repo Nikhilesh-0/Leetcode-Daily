@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0912-sort-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0912-sort-an-array) |
+| [1268-search-suggestions-system](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/1268-search-suggestions-system) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0912-sort-an-array) |
+| [1268-search-suggestions-system](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/1268-search-suggestions-system) |
 ## Quicksort
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
+| [1268-search-suggestions-system](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/1268-search-suggestions-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0912-sort-an-array) |
+| [1268-search-suggestions-system](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/1268-search-suggestions-system) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0686-repeated-string-match) |
+| [1268-search-suggestions-system](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/1268-search-suggestions-system) |
 ## String Matching
 |  |
 | ------- |
@@ -298,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
