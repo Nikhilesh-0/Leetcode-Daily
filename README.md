@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0169-majority-element) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0169-majority-element) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0053-maximum-subarray) |
+| [0139-word-break](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0139-word-break) |
 | [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
 ## Tournament Sort
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0214-shortest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0139-word-break) |
 | [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0648-replace-words) |
 | [1268-search-suggestions-system](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/1268-search-suggestions-system) |
@@ -320,4 +325,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
