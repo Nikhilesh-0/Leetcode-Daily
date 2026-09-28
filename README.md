@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0051-n-queens) |
+| [0212-word-search-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0212-word-search-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0036-valid-sudoku) |
+| [0212-word-search-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0212-word-search-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Divide and Conquer
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0187-repeated-dna-sequences) |
+| [0212-word-search-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0214-shortest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0459-repeated-substring-pattern) |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0139-word-break) |
+| [0212-word-search-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0212-word-search-ii) |
 | [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0648-replace-words) |
 | [1268-search-suggestions-system](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/1268-search-suggestions-system) |
