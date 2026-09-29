@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0648-replace-words) |
 | [0713-subarray-product-less-than-k](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0912-sort-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/1268-search-suggestions-system) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
 | [0912-sort-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/1268-search-suggestions-system) |
 ## Quicksort
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0866-prime-palindrome](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0866-prime-palindrome) |
+| [0973-k-closest-points-to-origin](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0973-k-closest-points-to-origin) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Backtracking
 |  |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/1268-search-suggestions-system) |
 ## Bucket Sort
 |  |
@@ -262,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -352,4 +358,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0211-design-add-and-search-words-data-structure) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
