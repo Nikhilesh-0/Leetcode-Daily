@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0866-prime-palindrome](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0866-prime-palindrome) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0139-word-break) |
 | [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
 ## Tournament Sort
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0139-word-break) |
 ## Brute-Force Search
 |  |
