@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
 | [0493-reverse-pairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0493-reverse-pairs) |
+| [0587-erect-the-fence](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0587-erect-the-fence) |
 | [0648-replace-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0648-replace-words) |
 | [0713-subarray-product-less-than-k](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0713-subarray-product-less-than-k) |
 | [0912-sort-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0912-sort-an-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0202-happy-number) |
+| [0587-erect-the-fence](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0587-erect-the-fence) |
 | [0866-prime-palindrome](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0866-prime-palindrome) |
 | [0973-k-closest-points-to-origin](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0973-k-closest-points-to-origin) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -361,9 +363,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0587-erect-the-fence](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0587-erect-the-fence) |
 | [0973-k-closest-points-to-origin](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0973-k-closest-points-to-origin) |
+## Convex Hull
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0587-erect-the-fence) |
+## Polygons
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
