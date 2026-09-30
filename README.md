@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0327-count-of-range-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0322-coin-change) |
 | [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
 ## Tournament Sort
 |  |
@@ -381,4 +383,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0587-erect-the-fence) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
