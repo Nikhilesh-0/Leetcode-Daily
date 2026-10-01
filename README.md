@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0327-count-of-range-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0493-reverse-pairs) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0474-ones-and-zeroes) |
 ## Tournament Sort
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0474-ones-and-zeroes) |
 ## Complete Knapsack
 |  |
@@ -402,5 +405,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
