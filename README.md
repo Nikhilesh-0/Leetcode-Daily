@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0518-coin-change-ii) |
 | [0587-erect-the-fence](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0587-erect-the-fence) |
 | [0648-replace-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0648-replace-words) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0051-n-queens) |
 | [0212-word-search-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0212-word-search-ii) |
+| [0494-target-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0494-target-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0518-coin-change-ii) |
 ## Tournament Sort
 |  |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -411,4 +415,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
