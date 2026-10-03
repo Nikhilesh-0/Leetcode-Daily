@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0139-word-break) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0115-distinct-subsequences) |
