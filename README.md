@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0587-erect-the-fence](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0587-erect-the-fence) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0097-interleaving-string) |
@@ -430,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
