@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0139-word-break) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0064-minimum-path-sum) |
 | [0212-word-search-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0212-word-search-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0097-interleaving-string) |
