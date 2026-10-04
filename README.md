@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0202-happy-number) |
 | [0587-erect-the-fence](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0587-erect-the-fence) |
 | [0866-prime-palindrome](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0866-prime-palindrome) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0139-word-break) |
@@ -439,4 +441,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0062-unique-paths) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
