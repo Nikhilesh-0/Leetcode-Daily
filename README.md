@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
 ## Tournament Sort
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0516-longest-palindromic-subsequence) |
 | [0648-replace-words](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0648-replace-words) |
 | [0686-repeated-string-match](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/0686-repeated-string-match) |
 | [1143-longest-common-subsequence](https://github.com/Nikhilesh-0/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
